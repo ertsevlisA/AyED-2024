@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Desktop\trabajos\8_EsMayor\8_EsMayor\bin\Debug\8_EsMayor.exe.config
-C:\Users\alumno.ET37\Desktop\trabajos\8_EsMayor\8_EsMayor\bin\Debug\8_EsMayor.exe
-C:\Users\alumno.ET37\Desktop\trabajos\8_EsMayor\8_EsMayor\bin\Debug\8_EsMayor.pdb
-C:\Users\alumno.ET37\Desktop\trabajos\8_EsMayor\8_EsMayor\obj\Debug\8_EsMayor.exe
-C:\Users\alumno.ET37\Desktop\trabajos\8_EsMayor\8_EsMayor\obj\Debug\8_EsMayor.pdb
