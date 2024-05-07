@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\bin\Debug\2_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\bin\Debug\2_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\bin\Debug\2_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\obj\Debug\2_BienvenidoACiudad.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\obj\Debug\2_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\Etapa 1\2_BienvenidoACiudad\2_BienvenidoACiudad\obj\Debug\2_BienvenidoACiudad.pdb
