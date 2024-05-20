@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\bin\Debug\7_alreves.exe.config
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\bin\Debug\7_alreves.exe
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\bin\Debug\7_alreves.pdb
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\obj\Debug\7_alreves.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\obj\Debug\7_alreves.exe
+C:\Users\alumno.ET37\Desktop\trabajos\7_alreves\7_alreves\obj\Debug\7_alreves.pdb
