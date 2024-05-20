@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\bin\Debug\3_DimensionDeEsfera.exe.config
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\bin\Debug\3_DimensionDeEsfera.exe
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\bin\Debug\3_DimensionDeEsfera.pdb
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\obj\Debug\3_DimensionDeEsfera.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\obj\Debug\3_DimensionDeEsfera.exe
+C:\Users\alumno.ET37\Desktop\tp3\3_DimesionDeEsfera\3_DimensionDeEsfera\3_DimensionDeEsfera\obj\Debug\3_DimensionDeEsfera.pdb
