@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\bin\Debug\3_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\bin\Debug\3_VueltaAClases.exe
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\bin\Debug\3_VueltaAClases.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\obj\Debug\3_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\obj\Debug\3_VueltaAClases.exe
+C:\Users\alumno.ET37\Desktop\etapa2\3_VueltaAClases\3_VueltaAClases\obj\Debug\3_VueltaAClases.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.exe.config
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.exe
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\obj\Debug\4_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\obj\Debug\4_PixelDreams.exe
+C:\Users\alumno.ET37\Desktop\etapa2\4_PixelDreams\4_PixelDreams\obj\Debug\4_PixelDreams.pdb
