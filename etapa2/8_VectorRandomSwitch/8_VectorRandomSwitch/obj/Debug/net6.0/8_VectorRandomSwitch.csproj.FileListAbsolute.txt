@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\bin\Debug\net6.0\8_VectorRandomSwitch.exe
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\bin\Debug\net6.0\8_VectorRandomSwitch.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\bin\Debug\net6.0\8_VectorRandomSwitch.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\bin\Debug\net6.0\8_VectorRandomSwitch.dll
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\bin\Debug\net6.0\8_VectorRandomSwitch.pdb
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.dll
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\refint\8_VectorRandomSwitch.dll
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.pdb
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\8_VectorRandomSwitch.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\8_VectorRandomSwitch\8_VectorRandomSwitch\obj\Debug\net6.0\ref\8_VectorRandomSwitch.dll

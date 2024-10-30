@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\bin\Debug\net6.0\9_MiPrimerMatriz.exe
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\bin\Debug\net6.0\9_MiPrimerMatriz.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\bin\Debug\net6.0\9_MiPrimerMatriz.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\bin\Debug\net6.0\9_MiPrimerMatriz.dll
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\bin\Debug\net6.0\9_MiPrimerMatriz.pdb
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.dll
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\refint\9_MiPrimerMatriz.dll
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.pdb
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\9_MiPrimerMatriz.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\9_MiPrimerMatriz\9_MiPrimerMatriz\obj\Debug\net6.0\ref\9_MiPrimerMatriz.dll

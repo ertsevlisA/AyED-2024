@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.exe.config
+C:\Users\alumno.ET37\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.exe
+C:\Users\alumno.ET37\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.exe
+C:\Users\alumno.ET37\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.pdb
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.exe.config
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.exe
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\bin\Debug\5_HOTSALE.pdb
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.exe
+C:\Users\EQUIPO\Desktop\etapa2\5_HOTSALE\5_HOTSALE\obj\Debug\5_HOTSALE.pdb
