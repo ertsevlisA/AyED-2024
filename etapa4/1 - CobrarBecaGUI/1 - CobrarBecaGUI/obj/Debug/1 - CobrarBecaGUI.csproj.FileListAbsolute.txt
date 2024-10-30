@@ -1,0 +1,19 @@
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\_1___CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\_1___CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.pdb
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.exe.config
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.exe
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\bin\Debug\1 - CobrarBecaGUI.pdb
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\_1___CobrarBecaGUI.Form1.resources
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\_1___CobrarBecaGUI.Properties.Resources.resources
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.csproj.GenerateResource.cache
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.exe
+C:\Users\EQUIPO\Desktop\etapa4\1 - CobrarBecaGUI\1 - CobrarBecaGUI\obj\Debug\1 - CobrarBecaGUI.pdb
