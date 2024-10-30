@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\bin\Debug\16_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\obj\Debug\16_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\bin\Debug\16_FizzBuzz.exe
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\bin\Debug\16_FizzBuzz.pdb
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\obj\Debug\16_FizzBuzz.exe
+C:\Users\alumno.ET37\Desktop\trabajos\16_FizzBuzz\16_FizzBuzz\obj\Debug\16_FizzBuzz.pdb
