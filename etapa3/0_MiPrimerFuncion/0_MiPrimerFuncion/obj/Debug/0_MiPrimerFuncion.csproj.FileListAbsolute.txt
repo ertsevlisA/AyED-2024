@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\bin\Debug\0_MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\obj\Debug\0_MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\bin\Debug\0_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\bin\Debug\0_MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\obj\Debug\0_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Desktop\etapa 3\0_MiPrimerFuncion\0_MiPrimerFuncion\obj\Debug\0_MiPrimerFuncion.pdb
