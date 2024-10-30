@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\bin\Debug\net6.0\10_MatrizAleatoria.exe
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\bin\Debug\net6.0\10_MatrizAleatoria.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\bin\Debug\net6.0\10_MatrizAleatoria.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\bin\Debug\net6.0\10_MatrizAleatoria.dll
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\bin\Debug\net6.0\10_MatrizAleatoria.pdb
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.dll
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\refint\10_MatrizAleatoria.dll
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.pdb
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\10_MatrizAleatoria.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\10_MatrizAleatoria\10_MatrizAleatoria\obj\Debug\net6.0\ref\10_MatrizAleatoria.dll

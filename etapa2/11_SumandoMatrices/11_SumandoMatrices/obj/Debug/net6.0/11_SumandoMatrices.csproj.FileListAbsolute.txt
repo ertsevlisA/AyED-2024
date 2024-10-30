@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\bin\Debug\net6.0\11_SumandoMatrices.exe
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\bin\Debug\net6.0\11_SumandoMatrices.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\bin\Debug\net6.0\11_SumandoMatrices.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\bin\Debug\net6.0\11_SumandoMatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\bin\Debug\net6.0\11_SumandoMatrices.pdb
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\refint\11_SumandoMatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.pdb
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\11_SumandoMatrices.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\11_SumandoMatrices\11_SumandoMatrices\obj\Debug\net6.0\ref\11_SumandoMatrices.dll

@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\bin\Debug\net6.0\12_MatricesCalificaciones.exe
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\bin\Debug\net6.0\12_MatricesCalificaciones.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\bin\Debug\net6.0\12_MatricesCalificaciones.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\bin\Debug\net6.0\12_MatricesCalificaciones.dll
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\bin\Debug\net6.0\12_MatricesCalificaciones.pdb
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.dll
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\refint\12_MatricesCalificaciones.dll
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.pdb
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\12_MatricesCalificaciones.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\12_MatricesCalificaciones\12_MatricesCalificaciones\obj\Debug\net6.0\ref\12_MatricesCalificaciones.dll
