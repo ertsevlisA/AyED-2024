@@ -1,0 +1,10 @@
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.exe.config
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.exe
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.pdb
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\_3___TerminosYCondiciones.Form1.resources
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\_3___TerminosYCondiciones.Properties.Resources.resources
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.csproj.GenerateResource.cache
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.exe
+C:\Users\EQUIPO\Desktop\etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.pdb

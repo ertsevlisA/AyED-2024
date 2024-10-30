@@ -1,0 +1,11 @@
+C:\Users\alumno.ET37\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\bin\Debug\2 - LoginSimple.exe.config
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\bin\Debug\2 - LoginSimple.exe.config
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\bin\Debug\2 - LoginSimple.exe
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\bin\Debug\2 - LoginSimple.pdb
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\2 - LoginSimple.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\_2___LoginSimple.Form1.resources
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\_2___LoginSimple.Properties.Resources.resources
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\2 - LoginSimple.csproj.GenerateResource.cache
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\2 - LoginSimple.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\2 - LoginSimple.exe
+C:\Users\EQUIPO\Desktop\etapa4\2 - LoginSimple\2 - LoginSimple\obj\Debug\2 - LoginSimple.pdb
