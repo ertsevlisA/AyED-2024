@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\etapa2\1_2daversion\1_2daversion\bin\Debug\1_2daversion.exe.config
+C:\Users\alumno.ET37\Desktop\etapa2\1_2daversion\1_2daversion\bin\Debug\1_2daversion.exe
+C:\Users\alumno.ET37\Desktop\etapa2\1_2daversion\1_2daversion\bin\Debug\1_2daversion.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\1_2daversion\1_2daversion\obj\Debug\1_2daversion.exe
+C:\Users\alumno.ET37\Desktop\etapa2\1_2daversion\1_2daversion\obj\Debug\1_2daversion.pdb

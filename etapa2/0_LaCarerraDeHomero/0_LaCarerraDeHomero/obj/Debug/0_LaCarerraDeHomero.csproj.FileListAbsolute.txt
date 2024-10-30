@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.exe.config
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.exe.config
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\bin\Debug\0_LaCarerraDeHomero.pdb
+C:\Users\alumno.ET37\Desktop\etapa2\0_LaCarerraDeHomero\0_LaCarerraDeHomero\obj\Debug\0_LaCarerraDeHomero.csprojResolveAssemblyReference.cache

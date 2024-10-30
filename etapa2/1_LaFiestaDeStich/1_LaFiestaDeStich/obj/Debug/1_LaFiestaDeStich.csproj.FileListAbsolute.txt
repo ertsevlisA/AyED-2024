@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.exe.config
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\obj\Debug\1_LaFiestaDeStich.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\obj\Debug\1_LaFiestaDeStich.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa2\1_LaFiestaDeStich\1_LaFiestaDeStich\obj\Debug\1_LaFiestaDeStich.csprojResolveAssemblyReference.cache
