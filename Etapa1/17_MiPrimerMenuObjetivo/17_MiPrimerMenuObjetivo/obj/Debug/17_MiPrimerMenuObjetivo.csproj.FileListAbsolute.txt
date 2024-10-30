@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\bin\Debug\17_MiPrimerMenuObjetivo.exe.config
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\bin\Debug\17_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\bin\Debug\17_MiPrimerMenuObjetivo.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\obj\Debug\17_MiPrimerMenuObjetivo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\obj\Debug\17_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MiPrimerMenuObjetivo\17_MiPrimerMenuObjetivo\obj\Debug\17_MiPrimerMenuObjetivo.pdb

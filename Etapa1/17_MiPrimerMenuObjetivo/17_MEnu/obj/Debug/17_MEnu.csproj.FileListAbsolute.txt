@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\bin\Debug\17_MEnu.exe.config
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\obj\Debug\17_MEnu.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\bin\Debug\17_MEnu.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\bin\Debug\17_MEnu.pdb
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\obj\Debug\17_MEnu.exe
+C:\Users\alumno.ET37\Desktop\Aylen2024\etapa1\17_MEnu\17_MEnu\obj\Debug\17_MEnu.pdb
