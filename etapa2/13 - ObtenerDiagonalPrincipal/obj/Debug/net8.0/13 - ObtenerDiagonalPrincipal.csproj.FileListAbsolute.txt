@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\bin\Debug\net8.0\13 - ObtenerDiagonalPrincipal.exe
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\bin\Debug\net8.0\13 - ObtenerDiagonalPrincipal.deps.json
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\bin\Debug\net8.0\13 - ObtenerDiagonalPrincipal.runtimeconfig.json
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\bin\Debug\net8.0\13 - ObtenerDiagonalPrincipal.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\bin\Debug\net8.0\13 - ObtenerDiagonalPrincipal.pdb
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\refint\13 - ObtenerDiagonalPrincipal.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.pdb
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\13 - ObtenerDiagonalPrincipal.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\13 - ObtenerDiagonalPrincipal\obj\Debug\net8.0\ref\13 - ObtenerDiagonalPrincipal.dll

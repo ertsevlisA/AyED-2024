@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\bin\Debug\net8.0\7 - ContratacionSoft.exe
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\bin\Debug\net8.0\7 - ContratacionSoft.deps.json
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\bin\Debug\net8.0\7 - ContratacionSoft.runtimeconfig.json
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\bin\Debug\net8.0\7 - ContratacionSoft.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\bin\Debug\net8.0\7 - ContratacionSoft.pdb
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\refint\7 - ContratacionSoft.dll
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.pdb
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\7 - ContratacionSoft.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\etapa2-20241113T211152Z-001\7 - ContratacionSoft\obj\Debug\net8.0\ref\7 - ContratacionSoft.dll
