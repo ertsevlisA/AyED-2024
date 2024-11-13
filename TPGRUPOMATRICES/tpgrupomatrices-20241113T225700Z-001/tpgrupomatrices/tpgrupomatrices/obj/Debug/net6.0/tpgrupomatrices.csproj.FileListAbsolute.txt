@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\bin\Debug\net6.0\tpgrupomatrices.exe
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\bin\Debug\net6.0\tpgrupomatrices.deps.json
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\bin\Debug\net6.0\tpgrupomatrices.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\bin\Debug\net6.0\tpgrupomatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\bin\Debug\net6.0\tpgrupomatrices.pdb
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\refint\tpgrupomatrices.dll
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.pdb
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\tpgrupomatrices.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa2\tpgrupomatrices\tpgrupomatrices\obj\Debug\net6.0\ref\tpgrupomatrices.dll
