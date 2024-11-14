@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\bin\Debug\net8.0-windows\5 - MiPrimerMenuGUI.exe
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\bin\Debug\net8.0-windows\5 - MiPrimerMenuGUI.deps.json
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\bin\Debug\net8.0-windows\5 - MiPrimerMenuGUI.runtimeconfig.json
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\bin\Debug\net8.0-windows\5 - MiPrimerMenuGUI.dll
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\bin\Debug\net8.0-windows\5 - MiPrimerMenuGUI.pdb
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form1.resources
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form2.resources
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form3.resources
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.dll
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\refint\5 - MiPrimerMenuGUI.dll
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.pdb
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\5 - MiPrimerMenuGUI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\ref\5 - MiPrimerMenuGUI.dll
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form4.resources
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form5.resources
+C:\Users\Usuario\Desktop\etapa4-20241113T223645Z-001\etapa4\5 - MiPrimerMenuGUI\obj\Debug\net8.0-windows\_5___MiPrimerMenuGUI.Form6.resources
